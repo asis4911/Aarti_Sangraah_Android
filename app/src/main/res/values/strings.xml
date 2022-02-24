@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">आरती संग्रह</string>
+    <string name="heading1">आरती संग्रह</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_other_apps">My Other Apps</string>
+    <string name="myotherapps">My Other Apps</string>
+    <string name="nav_otherapps">My Other App</string>
+    <string name="menu_send_Link">Send Link</string>
+
+    <string name="connect_me">Connect Me On:</string>
+    <string name="share_app">Share App</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="developer_name">Ashish Kumar</string>
+    <string name="menu_rateus">Rate Us</string>
+    <string name="contact_author">Connect Author</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="about_developer">About Developer</string>
+
+    <string name="feedback">Feedback</string>
+    <string name="app_Version_name">Version 1.0</string>
+    <string name="about_me">Hi Guys, I am Ashish a keen android developer.Listen various arti\'s of Hindu relegion at one place and keep yourself positive always.
+        I hope you guys will like this app. If there is any concern. Please feel free to contact or send feedback!!</string>
+    <string name="arti1">श्री गणेश जी की आरती</string>
+    <string name="arti2">हनुमानजी की आरती</string>
+    <string name="arti2_1">श्री हनुमान चालीसा</string>
+    <string name="arti3">भगवान श्री कृष्ण जी की आरती</string>
+    <string name="arti4">श्री रामचंद्र जी की आरती</string>
+    <string name="arti5">श्री शिरडी साईं बाबा की आरती</string>
+    <string name="arti6">श्री सत्यनारायणजी की आरती</string>
+    <string name="arti7">ओम जय शिव ओंकारा</string>
+    <string name="arti8">श्री राधा रानी की आरती</string>
+    <string name="arti9">मां दुर्गा जी की आरती</string>
+    <string name="arti10">श्री गायत्री माता की आरती</string>
+    <string name="arti11">श्री देवीजी की आरती</string>
+    <string name="arti12">काली माता की आरती</string>
+    <string name="arti13">मां सरस्वती की आरती</string>
+    <string name="arti14">श्री तुलसी जी की आरती</string>
+    <string name="arti15">ॐ जय जगदीश हरे आरती</string>
+    <string name="arti16">सुखकर्ता दुखहर्ता वार्ता विघ्नाची गणेश आरती</string>
+
+    <string name="Test_id_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_inter">ca-app-pub-6585771991954610/8959501772</string>
+
+</resources>

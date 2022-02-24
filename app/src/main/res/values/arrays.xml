@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Book_name">
+        <item>श्री गणेश जी की आरती</item>
+        <item>हनुमानजी की आरती</item>
+        <item>श्री हनुमान चालीसा</item>
+        <item>भगवान श्री कृष्ण जी की आरती</item>
+        <item>श्री रामचंद्र जी की आरती</item>
+        <item>श्री शिरडी साईं बाबा की आरती</item>
+        <item>श्री सत्यनारायणजी की आरती</item>
+        <item>ओम जय शिव ओंकारा</item>
+        <item>श्री राधा रानी की आरती</item>
+        <item>मां दुर्गा जी की आरती</item>
+        <item>श्री गायत्री माता की आरती</item>
+        <item>श्री देवीजी की आरती</item>
+        <item>काली माता की आरती</item>
+        <item>मां सरस्वती की आरती</item>
+        <item>श्री तुलसी जी की आरती</item>
+        <item>ॐ जय जगदीश हरे आरती</item>
+        <item>सुखकर्ता दुखहर्ता वार्ता विघ्नाची गणेश आरती</item>
+    </string-array>
+</resources>

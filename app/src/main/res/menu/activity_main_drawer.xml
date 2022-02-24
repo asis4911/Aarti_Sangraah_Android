@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/connect_me">
+        <menu>
+            <item
+                android:id="@+id/nav_linkedin"
+                android:title="@string/developer_name"
+                android:icon="@drawable/ic_linked"
+                >
+            </item>
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_rateus"
+            android:icon="@drawable/ic_rateus"
+            android:title="@string/menu_rateus" />
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/ic_feedback"
+            android:title="@string/menu_feedback"/>
+    </group>
+    <item android:title="@string/share_app">
+        <menu>
+            <item
+                android:id="@+id/nav_sendlink"
+                android:title="@string/menu_send_Link"
+                android:icon="@drawable/ic_send"
+                >
+            </item>
+        </menu>
+    </item>
+    <item android:title="@string/myotherapps">
+        <menu>
+            <item
+                android:id="@+id/nav_otherapps"
+                android:title="@string/menu_other_apps"
+                android:icon="@drawable/ic_my_other_apps"
+                >
+            </item>
+        </menu>
+    </item>
+    <item android:title="@string/about_developer">
+        <menu>
+            <item
+                android:id="@+id/nav_developer"
+                android:icon="@drawable/ic_about_developer"
+                android:title="@string/about_developer" />
+            <item
+                android:id="@+id/nav_privacy"
+                android:icon="@drawable/ic_privacy"
+                android:title="@string/privacy" />
+        </menu>
+    </item>
+</menu>
